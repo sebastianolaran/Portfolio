@@ -5,6 +5,8 @@
     }
     
     body{
+        border: 1px solid red;
+        width:100%;
         padding: 0;
         margin: 0;
     }
@@ -88,6 +90,10 @@
         height: 100vh;
     }
     
+    .contact-info-upper-container{
+        display: flex;
+        flex-direction: column;
+    }
 
 
 

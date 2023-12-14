@@ -133,8 +133,19 @@ h1{
 
 
 
+
+
+
+
+
+
+
+
 /* Cartas*/
 
+.skills{
+  height: auto;
+}
 
 .titulo-section{
   font-size: 3rem;
@@ -211,15 +222,15 @@ h1{
   justify-content: center;
   border: 1px solid #cbcbcb;
   border-radius: 5px;
+
 }
 
 
 
-.project picture img {
-  min-height: inherit;
-  width: 94%;
-  height: 91%;
-  border-radius: .8rem;
+.project  img {
+  
+  width: 60%;
+  height: auto;
   object-fit: cover;
   transition: .3s ease;
   
