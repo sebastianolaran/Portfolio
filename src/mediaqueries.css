@@ -1,8 +1,12 @@
 @media screen and (max-width : 1200px){
     
-    #cel-nav{
-        display: flex;
+    .navbar-desktop{
+        display: none;
     }
+    
+      #hamburger-nav {
+        display: flex;
+      }
     
     body{
     
@@ -12,7 +16,6 @@
     }
 
     section{
-        
         width: 100%;
     }
 
